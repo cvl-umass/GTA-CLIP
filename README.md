@@ -35,12 +35,13 @@ export TOKENIZERS_PARALLELISM=true
 ```
 
 #### Datasets
+
 Please follow [DATASETS.md](DATASETS.md) to install the datasets.
 For CUB dataset, follow [AdaptCLIPZS](https://github.com/cvl-umass/AdaptCLIPZS)
 
 #### Static LLM Attributes
+
 Download "gpt_descriptions" from [AdaptCLIPZS](https://github.com/cvl-umass/AdaptCLIPZS)
----
 
 #### Running GTA-CLIP
 ```bash
