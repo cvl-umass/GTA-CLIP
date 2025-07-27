@@ -17,8 +17,8 @@ ICCV'2025
 
 ### Overview of GTA-CLIP
 
-(a) Vision-language models (VLMs) such as CLIP [36] enable zero-shot classification using similarity between text embeddings of class prompts and images.  
-(b) Transductive CLIP [61] exploits the structure of entire image dataset to assign images to classes improving accuracy.  
+(a) Vision-language models (VLMs) such as CLIP enable zero-shot classification using similarity between text embeddings of class prompts and images.  
+(b) Transduction exploits the structure of entire image dataset to assign images to classes improving accuracy.  
 (c) Our approach, GTA-CLIP, iteratively  
   (i) induces structure over classes in language space by generating attributes based on pairwise confusions,  
   (ii) performing attribute-augmented transductive inference, and  
