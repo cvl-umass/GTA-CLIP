@@ -20,7 +20,7 @@ ICCV'2025
 (a) Vision-language models (VLMs) such as CLIP [36] enable zero-shot classification using similarity between text embeddings of class prompts and images.  
 (b) Transductive CLIP [61] exploits the structure of entire image dataset to assign images to classes improving accuracy.  
 (c) Our approach, GTA-CLIP, iteratively  
-  (i) induces structure over the classes in language space by generating attributes driven by the pairwise confusions,  
+  (i) induces structure over classes in language space by generating attributes based on pairwise confusions,  
   (ii) performing attribute-augmented transductive inference, and  
   (iii) adapting CLIP encoders using the inferred labels.  
 (d) Across 12 datasets we improve upon CLIP and transductive CLIP by 8.6% and 4.0% using VIT-B/32, and similarly for other encoders. Significant improvements are also reported in the few-shot setting.
