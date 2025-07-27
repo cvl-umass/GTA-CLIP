@@ -43,7 +43,7 @@ For CUB dataset, follow [AdaptCLIPZS](https://github.com/cvl-umass/AdaptCLIPZS)
 
 Download "gpt_descriptions" from [AdaptCLIPZS](https://github.com/cvl-umass/AdaptCLIPZS)
 
-#### Running GTA-CLIP
+### Running GTA-CLIP
 ```bash
 python run_gtaclip.py --dataset <dataset_name> --root_path </path/to/datasets/folder> --backbone <clip_backbone> --gpt_path </path/to/adaptclizs/visual/attributes --gpt_path_location </path/to/adaptclizs/location/attributes
 ```
@@ -57,7 +57,7 @@ Thanks to [TransCLIP](https://github.com/MaxZanella/transduction-for-vlms) for r
 
 ---
 
-## Citation
+### Citation
 
 If you find our work useful, please consider citing:
 
