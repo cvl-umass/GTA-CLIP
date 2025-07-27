@@ -134,7 +134,7 @@ def main():
         clip_model.eval()
 
         shot_features, shot_labels, val_features, val_labels, test_features, test_labels, clip_prototypes, texts, image_names = get_all_features(
-            cfg, train_loader, val_loader, test_loader, dataset, clip_model, texts)
+            cfg, train_loader, val_loader, test_loader, dataset, clip_model, texts, args.dataset)
         
         z,_,acc,_ = TransCLIP_solver(shot_features, shot_labels, val_features, val_labels, test_features, test_labels,
                                 clip_prototypes, acc)
@@ -190,7 +190,7 @@ def main():
                 texts[confused_pairs[i_c][1]].extend(lines2)
 
 
-        shot_features, shot_labels, val_features, val_labels, test_features, test_labels, clip_prototypes, texts, image_names = get_all_features(cfg, train_loader, val_loader, test_loader, dataset, clip_model, texts)
+        shot_features, shot_labels, val_features, val_labels, test_features, test_labels, clip_prototypes, texts, image_names = get_all_features(cfg, train_loader, val_loader, test_loader, dataset, clip_model, texts, args.dataset)
         
         z,_,acc,_ = TransCLIP_solver(shot_features, shot_labels, val_features, val_labels, test_features, test_labels,clip_prototypes, acc)  
 
