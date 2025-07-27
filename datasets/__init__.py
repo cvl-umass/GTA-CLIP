@@ -45,9 +45,9 @@ def get_all_dataloaders(cfg, preprocess):
 
     else:
         dataset = dataset_list[dataset_name](cfg['root_path'], cfg['shots'], gpt_path=cfg['gpt_path'], gpt_path_location=cfg['gpt_path_location'])
-        val_loader = build_data_loader(data_source=dataset.val, batch_size=256, is_train=False, tfm=preprocess,
+        val_loader = build_data_loader(data_source=dataset.val, batch_size=64, is_train=False, tfm=preprocess,
                                        shuffle=False)
-        test_loader = build_data_loader(data_source=dataset.test, batch_size=256, is_train=False, tfm=preprocess,
+        test_loader = build_data_loader(data_source=dataset.test, batch_size=64, is_train=False, tfm=preprocess,
                                         shuffle=False)
         train_loader = None
         if cfg['shots'] > 0:
