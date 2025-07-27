@@ -1,0 +1,32 @@
+a schooner which has two or more masts, with the foremast being shorter than the main.
+a schooner which has a gaff-rigged or Bermuda-rigged sails on all masts.
+a schooner which has a long, slender hull for fast sailing.
+a schooner which has a bowsprit, a pole extending out from the bow.
+a schooner which has a wide beam, or width, for stability in the water.
+a schooner which has a large sail area relative to the size of the vessel.
+a schooner which has a shallow draft, allowing it to navigate in shallow waters.
+a schooner which has a combination of square and fore-and-aft sails.
+a schooner which has a deck layout that typically includes a raised forecastle and quarterdeck.
+a schooner which has a tiller or wheel for steering at the stern.
+a schooner which may have additional structures like cabins or a galley below deck.
+a schooner which may have a figurehead, a carved decoration at the prow.
+a schooner which may have a transom, a flat surface forming the stern of a vessel.
+a schooner which may have a crow's nest, a lookout point at the top of the mast.
+a schooner which may have a variety of rigging lines and ropes for controlling the sails.
+a schooner which typically has fewer decks than a pirate ship.
+a schooner which often lacks a large, billowing sail on a prominent mast.
+a schooner which often lacks a Jolly Roger or other pirate flag.
+a schooner which often lacks cannons or other old-fashioned weaponry.
+a schooner which often lacks a plank, a board extended off the side of the ship used to walk prisoners off.
+a schooner which often lacks a large anchor, typically made of iron or steel.
+a schooner which often has a lighter-colored hull, frequently white or off-white.
+a schooner which often has fewer ropes and rigging crisscrossing between the masts and other parts of the ship.
+a schooner which often lacks a captain's quarters, often more ornate than the rest of the ship.
+a schooner which often lacks a ship's bell, used for signaling and keeping time.
+a schooner which often lacks a capstan, a vertical-axled rotating machine developed for use on sailing ships to multiply the pulling force of seamen when hauling ropes.
+a schooner which often lacks a forecastle and quarterdeck, elevated sections at the bow and stern of the ship.
+a schooner which often lacks a longboat or other small craft attached to the side or stored on the deck.
+a schooner which often lacks a windlass, a type of winch used on ships to hoist anchors and haul on mooring lines.
+a schooner which often lacks a bilge pump, a pump used to remove bilge water.
+a schooner which often lacks a gun deck, a deck on a ship where the ship's guns are carried.
+a schooner which often lacks a galley, the kitchen of a ship.

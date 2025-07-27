@@ -1,0 +1,29 @@
+a photo of a art school which features a variety of artworks in different stages of completion.
+a photo of a art school which includes a teacher or instructor providing guidance to students.
+a photo of a art school which shows a room with high ceilings and large windows for natural light, often found in art studios.
+a photo of a art school which includes art textbooks, sketchbooks, or references to famous artists and art history.
+a photo of a art school which shows students critiquing or discussing each other's work.
+a photo of a art school which includes bulletin boards or walls covered in sketches, drafts, or inspirational images.
+a photo of a art school which shows a diverse range of art styles and mediums being explored.
+a photo of a art school which features life drawing models or still life setups for observational drawing.
+a photo of a art school which includes portfolios or display cases showcasing student work.
+a photo of a art school which shows a relaxed, informal dress code, often associated with creative environments.
+a photo of a art school which includes architectural features like exposed brick walls or wooden floors, often found in converted art spaces.
+a photo of a art school which includes individuals engaged in drawing, painting, sculpting, or other artistic activities.
+a photo of a art school which displays a variety of art supplies such as paintbrushes, paints, easels, and canvases.
+a photo of a art school which shows a cluttered, creative environment, often characteristic of art studios.
+a photo of a art school which features a variety of art supplies such as paintbrushes, paints, easels, and canvases. (also found in art_studio)
+a photo of a art school which shows a cluttered, creative environment, often characteristic of art studios. (also found in art_studio)
+a photo of a art school which contains a large, open space with high ceilings and natural light. (also found in art_studio)
+a photo of a art school which displays splatters of paint on the floor, walls, or furniture. (also found in art_studio)
+a photo of a art school which exhibits a solitary, focused atmosphere, often with a single chair or stool. (also found in art_studio)
+a photo of a art school which presents a collection of inspirational items or mood boards. (also found in art_studio)
+a photo of a art school which reveals a sink or cleaning area for washing brushes and other tools. (also found in art_studio)
+a photo of a art school which portrays a drafting table or a flat surface for sketching and planning. (also found in art_studio)
+a photo of a art school which demonstrates a display or storage area for finished artworks. (also found in art_studio)
+a photo of a art school which shows a variety of mediums, such as clay, charcoal, or pastels. (also found in art_studio)
+a photo of a art school which includes a mannequin or other forms used for figure drawing or painting. (also found in art_studio)
+a photo of a art school which features large windows or skylights for natural lighting. (also found in art_studio)
+a photo of a art school which contains shelves or racks for drying or storing artworks. (also found in art_studio)
+a photo of a art school which exhibits a variety of art books or reference materials. (also found in art_studio)
+a photo of a art school which shows a room with high ceilings and large windows for natural light, often found in art studios. (this attribute was already listed, but it's worth noting that it's a characteristic of art_studio as well)

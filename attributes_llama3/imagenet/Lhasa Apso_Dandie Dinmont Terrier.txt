@@ -1,0 +1,44 @@
+A long, dense coat that comes in a variety of colors such as honey, black, white, brown, and dark grizzle.
+A small, sturdy body, typically weighing between 12 to 18 pounds.
+A height of about 10 to 11 inches at the shoulder.
+A longer body length compared to its height.
+Deep-set, dark brown eyes that are medium in size.
+A black nose.
+A heavy, straight, hard outer coat that falls down either side of the body.
+A tail that curls over its back.
+Ears that hang down and are heavily feathered.
+A muzzle that is medium in length.
+A distinct beard and mustache.
+A sturdy front and hind legs.
+A confident and intelligent expression.
+A double coat with a softer undercoat.
+A moderate stop (the point at which the muzzle meets the forehead).
+A level or slightly undershot bite.
+A rectangular shape (longer than it is tall).
+A gait that is steady and firm.
+A coat that sheds heavily and requires regular grooming.
+A coat that is not hypoallergenic.
+A body shape that is more compact and sturdy compared to the Maltese.
+A neck that is not as long and fine-boned as the Maltese.
+A head shape that is more rounded and has a more prominent muzzle.
+A face shape that has a more defined stop and a less rounded skull.
+A body length that is more than 1.1 times its height.
+A double coat with a softer undercoat, which is different from the double coat of Dandie Dinmont Terrier.
+A muzzle that is medium in length, which is different from the large head of Dandie Dinmont Terrier.
+A distinct beard and mustache, which is not found in Dandie Dinmont Terrier.
+A black nose, which is different from the nose of Dandie Dinmont Terrier.
+A level or slightly undershot bite, which is different from the scissor bite of Dandie Dinmont Terrier.
+A rectangular shape (longer than it is tall), which is different from the long body of Dandie Dinmont Terrier.
+A gait that is steady and firm, which is different from the confident and dignified demeanor of Dandie Dinmont Terrier.
+A weight range that is generally lower than Dandie Dinmont Terrier.
+A lifespan that is generally shorter than Dandie Dinmont Terrier.
+A generally shorter height compared to Dandie Dinmont Terrier.
+A unique tail shape compared to the unique 'pencil' tail of Dandie Dinmont Terrier.
+A muzzle that is medium in length, which is different from the large head of Tibetan Terrier.
+A distinct beard and mustache, which is not found in Tibetan Terrier.
+A black nose, which is different from the nose of Tibetan Terrier.
+A level or slightly undershot bite, which is different from the strong jaw with scissors bite of Tibetan Terrier.
+A rectangular shape (longer than it is tall), which is different from the compact and sturdy build of Tibetan Terrier.
+A gait that is steady and firm, which is different from the brisk and effortless movement of Tibetan Terrier.
+A weight range that is generally lower than Tibetan Terrier.
+A lifespan that is generally shorter than Tibetan Terrier.

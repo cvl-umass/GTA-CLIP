@@ -1,0 +1,24 @@
+a center spine running from the front to the rear.
+a flat, wide, and low profile.
+a retractable rear wing for aerodynamics.
+a two-door coupe body style.
+a full-time all-wheel drive.
+a fuel economy of 8 city / 14 highway mpg.
+a large diffuser and centrally mounted exhaust pipes at the rear.
+a Bugatti emblem on the front grille.
+a curved windshield and roofline.
+a digital instrument cluster.
+a center console that houses controls for the climate and audio system.
+a unique key for activating the top speed mode.
+a fuel tank capacity of 26.4 gallons.
+a curb weight of 4162 lbs.
+a length of 175.7 inches, a width of 78.7 inches, and a height of 47.4 inches.
+a wheelbase of 106.7 inches.
+a ground clearance of 4.9 inches in handling mode.
+a 0-60 mph acceleration time of 2.5 seconds.
+a carbon fiber body structure.
+a luggage compartment in the front.
+a power-to-weight ratio of 529 hp per tonne.
+a maximum power output of 1001 hp at 6000 rpm.
+a maximum torque of 922 lb-ft at 2200-5500 rpm.
+a top speed of 253 mph.

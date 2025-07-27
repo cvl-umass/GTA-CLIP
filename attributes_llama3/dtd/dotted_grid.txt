@@ -1,0 +1,25 @@
+dotted texture which features a pattern of small, round spots.
+dotted texture which has a regular or irregular arrangement of dots.
+dotted texture which displays a contrast between the dots and the background.
+dotted texture which has a uniform or varying size of dots.
+dotted texture which shows a clear separation between each dot.
+dotted texture which may have dots of different colors.
+dotted texture which may have dots that are filled or hollow.
+dotted texture which may have dots that are evenly or randomly spaced.
+dotted texture which may have dots that are geometrically perfect or imperfect.
+dotted texture which may have dots that are raised or flat.
+dotted texture which lacks intersecting lines forming squares or rectangles.
+dotted texture which does not display a regular pattern of horizontal and vertical lines.
+dotted texture which has non-uniform spacing between dots.
+dotted texture which does not have a consistent pattern throughout the entire image.
+dotted texture which does not have lines that intersect at 90-degree angles.
+dotted texture which may not appear as a wireframe or lattice in three-dimensional images.
+dotted texture which does not have a raised or indented pattern, depending on the light and shadow in the image.
+dotted texture which does not appear in a variety of scales, from fine to coarse, depending on the distance between the dots.
+dotted texture which does not have dots of varying thickness.
+dotted texture which does not appear in any color or combination of colors, but the pattern remains consistent.
+dotted texture which does not have a glossy or matte finish, depending on the material and lighting in the image.
+dotted texture which does not have a smooth or rough surface, but the pattern is still discernible.
+dotted texture which does not show signs of wear or distress, but the pattern remains intact.
+dotted texture which does not have additional patterns or textures within the pattern, but the overall pattern is dominant.
+dotted texture which does not have variations in the pattern due to perspective or curvature of the surface, but the basic pattern structure is still recognizable.

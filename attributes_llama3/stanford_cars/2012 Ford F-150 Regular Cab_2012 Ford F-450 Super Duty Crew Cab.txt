@@ -1,0 +1,16 @@
+a two-door body style, indicating it's a regular cab model.
+a single row of seating.
+a side mirror that extends further out, designed for towing visibility.
+a rectangular, upright front end.
+a long, flat hood.
+a fuel cap located on the driver's side.
+a visible antenna on the right side of the front hood.
+a spare tire located underneath the cargo bed at the rear.
+Ford's specific 17-inch steel wheels.
+a VIN number that starts with 1F, indicating it's a Ford vehicle made in the USA.
+a towing hitch at the back, indicating its utility nature.
+Ford's signature C-shaped taillights.
+a step bumper at the rear for easy access to the truck bed.
+a large cargo bed at the rear.
+a boxy, utilitarian shape typical of pickup trucks.
+a high ground clearance and robust wheel arches.

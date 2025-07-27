@@ -1,0 +1,26 @@
+a tandem bicycle which has two seats, one behind the other.
+a tandem bicycle which has two sets of pedals, one for each seat.
+a tandem bicycle which has a single frame that is longer than a standard bicycle frame.
+a tandem bicycle which has two handlebars, one for each seat.
+a tandem bicycle which has a single chain or two chains connecting the pedals to the rear wheel.
+a tandem bicycle which has a single front wheel and a single rear wheel.
+a tandem bicycle which has a rear seat that is often slightly lower than the front seat.
+a tandem bicycle which has a single set of brakes controlled by the front rider.
+a tandem bicycle which may have a second set of handlebars for the rear rider, but these typically do not steer the bicycle.
+a tandem bicycle which may have additional features such as a luggage rack or a child seat.
+a tandem bicycle which may have a tandem-specific stand for stability when stationary.
+a tandem bicycle which may have a longer wheelbase compared to a standard bicycle.
+a tandem bicycle which may have a tandem-specific fork for added strength and stability.
+a tandem bicycle which may have a second set of pedals that are synchronized with the front set.
+a tandem bicycle which may have a second set of gears controlled by the rear rider.
+a tandem bicycle which typically does not have a suspension system.
+a tandem bicycle which typically does not have wide, knobby tires.
+a tandem bicycle which typically does not have disc brakes.
+a tandem bicycle which typically does not have a dropper seat post.
+a tandem bicycle which typically does not have reinforced wheel rims.
+a tandem bicycle which typically does not have a compact frame geometry.
+a tandem bicycle which typically does not have protective guards over the chain and gears.
+a tandem bicycle which typically does not have a high bottom bracket.
+a tandem bicycle which typically does not have a slacker head tube angle.
+a tandem bicycle which typically does not have a shorter stem.
+a tandem bicycle which typically does not have a wider axle spacing (known as Boost).

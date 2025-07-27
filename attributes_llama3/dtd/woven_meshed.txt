@@ -1,0 +1,18 @@
+woven texture which displays a clear pattern of interlacing threads or fibers.
+woven texture which shows a crisscross pattern, typically with two sets of threads or fibers at right angles.
+woven texture which has a regular, repeating pattern that is consistent throughout the material.
+woven texture which may show visible knots or loops where the threads or fibers intersect.
+woven texture which may have a raised or bumpy surface due to the weaving process.
+woven texture which may show variations in the thickness of the threads or fibers used.
+woven texture which may have a distinct directionality, with the threads or fibers running in specific directions.
+woven texture which may show signs of wear or fraying along the edges where the weave is exposed.
+woven texture which may have a certain level of rigidity or stiffness, depending on the tightness of the weave.
+woven texture which may have a certain level of transparency, depending on the thickness and spacing of the threads or fibers.
+woven texture which typically has a more defined and structured appearance compared to meshed textures.
+woven texture which often has a more uniform density and tightness of the weave.
+woven texture which may have a more pronounced sheen or luster due to the interlacing of threads or fibers.
+woven texture which often has a more defined edge or border, depending on the type of weave used.
+woven texture which may have a more noticeable texture or tactile sensation due to the raised or bumpy surface.
+woven texture which often has a more consistent and predictable appearance, with fewer open spaces or gaps.
+woven texture which may have a more defined and visible pattern of thread or fiber intersections.
+woven texture which often has a more rigid or inflexible structure, depending on the type of weave used.

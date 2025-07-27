@@ -1,0 +1,33 @@
+a tape player which has a cassette slot, typically in the center.
+a tape player which has play, stop, rewind, and fast forward buttons.
+a tape player which has a volume control knob or slider.
+a tape player which may have a record button.
+a tape player which may have a power cord or battery compartment.
+a tape player which may have an eject button to remove the cassette.
+a tape player which may have a digital or analog display showing tape progress or radio frequency.
+a tape player which may have a balance control knob or slider.
+a tape player which may have a tone control knob or slider.
+a tape player which may have a microphone input.
+a tape player which may have a carrying handle.
+a tape player which may have a pause button.
+a tape player which may have a track skip or search button.
+a tape player which may have a counter reset button.
+a tape player which may have a Dolby noise reduction switch.
+a tape player which may have a tape speed selector switch.
+a tape player which may have a tape direction switch.
+a tape player which may have a tape type selector switch.
+a tape player which may have a stereo/mono switch.
+a tape player which may have a line-in and line-out ports.
+a tape player which may have a tuner for radio stations.
+a tape player which has a rectangular or square shape.
+a tape player which may have an AM/FM radio dial.
+a tape player which may have a built-in speaker.
+a tape player which may have a line-out port for connecting to external speakers.
+a tape player which may have a slot for cassette tapes if it's a combination player.
+a tape player which may have a sleep or timer function, often found in tape alarm clocks.
+a tape player which may have a shuffle or repeat function for playing tracks in different orders.
+a tape player which may have a headphone jack.
+a tape player which may have a built-in speaker system.
+a tape player which may have an optical output for digital audio.
+a tape player which may have an AC adapter or a DC input for power supply.
+a tape player which may have a remote control for wireless operation.

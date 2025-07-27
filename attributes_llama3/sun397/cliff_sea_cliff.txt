@@ -1,0 +1,20 @@
+a photo of a cliff which displays layers of rock formations.
+a photo of a cliff which shows erosion patterns or vegetation clinging to the rock face.
+a photo of a cliff which includes a panoramic view from a high vantage point.
+a photo of a cliff which features a precipice or overhang.
+a photo of a cliff which shows a contrast between the cliff and the surrounding landscape.
+a photo of a cliff which includes climbers or climbing equipment.
+a photo of a cliff which displays the effects of weathering on a rock face.
+a photo of a cliff which shows shadows cast by the sun, highlighting the cliff's ruggedness.
+a photo of a cliff which features a cliff-side path or trail.
+a photo of a cliff which includes a waterfall cascading down from the cliff, if it's a river cliff.
+a photo of a cliff which shows waves crashing against the base of the cliff, if it's a sea cliff. (Note: This attribute is common to both sea_cliff and cliff, but the context is different. In cliff, it implies a river cliff.)
+a photo of a cliff which shows a sharp drop-off into a body of water or onto land, but not necessarily an ocean or sea.
+a photo of a cliff which features a photo of a cliff which includes a view of the sky from a high altitude, but with less emphasis on the surrounding water.
+a photo of a cliff which has birds or other wildlife typically found on cliffs, but not necessarily in coastal areas.
+a photo of a cliff which includes a photo of a cliff which displays sedimentary layers in the cliff face, but indicating geological history in a non-coastal context.
+a photo of a cliff which may include a viewpoint or lookout from the top of the cliff, often used for sightseeing, but not necessarily in a coastal context.
+a photo of a cliff which may show people engaging in activities such as hiking or bird watching, but not necessarily rock climbing or bird watching in coastal areas.
+a photo of a cliff which may include a lighthouse or other non-coastal structures near the cliff.
+a photo of a cliff which may show the cliff in different weather conditions, such as snow, fog, or bright sunlight, but not necessarily in a coastal context.
+a photo of a cliff which may display the cliff's shadow over the surrounding landscape, especially during sunrise or sunset.
